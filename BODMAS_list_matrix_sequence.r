@@ -14,7 +14,7 @@ print(b)
 
 #Creating list with list()
 empId = c(2,3,5,1) 
-empName = c("Raja","Deepa","Anthony","Mani")
+empName = c("Raja","Vel","Anthony","Mani")
 numberOfEmp = 4
 empList = list(empId, empName, numberOfEmp)
 print(empList)
